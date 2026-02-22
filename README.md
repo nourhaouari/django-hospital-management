@@ -1,3 +1,4 @@
+
 # Hospital Management System - TP Django
 
 A complete Hospital Management web application built with Django and Bootstrap as part of a university Practical Work (TP). It allows staff to manage patient records through an intuitive dashboard and robust CRUD operations.
@@ -149,4 +150,6 @@ To ensure everything is working correctly, test the following flow:
 ---
 
 **Author:** [Nour Haouari]  
+
+
 

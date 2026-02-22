@@ -1,6 +1,5 @@
 
-# Hospital Management System - TP Django
-
+# Hospital Management System 
 A complete Hospital Management web application built with Django and Bootstrap as part of a university Practical Work (TP). It allows staff to manage patient records through an intuitive dashboard and robust CRUD operations.
 
 ##  Features
@@ -83,7 +82,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🗄️ Database Configuration
+##  Database Configuration
 
 This project expects a MySQL database. If you are using XAMPP/WAMP, start your Apache and MySQL services.
 
@@ -117,7 +116,7 @@ python manage.py migrate
 
 ---
 
-## 🏃 How to Run the Project
+##  How to Run the Project
 
 **1. Create an Admin Account (Optional but recommended)**
 ```bash
